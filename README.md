@@ -1,16 +1,5 @@
 # 🎮 COUNTER SINGLE | Динамичный 2D Top-Down Экшен
 
-<p align="center">
-  <img src="gameplay.png" alt="Игровой процесс" width="750" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Статус проекта">
-  <img src="https://shields.io" alt="Платформа">
-  <img src="https://shields.io" alt="Жанр">
-</p>
-
----
 
 ### 📝 Описание проекта
 
